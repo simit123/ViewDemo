@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--声明属性名字为自定义view的名字-->
+    <declare-styleable name="CircleView">
+        <attr name="circle_color" format="color"/>
+    </declare-styleable>
+</resources>
